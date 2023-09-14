@@ -5,8 +5,14 @@
 <h2 align="left">Big passion for: </h2>
 
   -coding 
+
+  -electronics
+  
+  -physics
   
   -videogames
+
+  -math
   
   -learning new stuff about the tech world!
 
@@ -16,7 +22,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **angelo.lavarini.work@gmail.com**
+- 📫 How to reach me **angelo.lavarini@studenti.unipd.it**
 
 - Developing and studying from Italy! 🟩⚪🟥
 </p>
